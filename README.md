@@ -1,2 +1,2 @@
 # HierarchyChecker
-A user-role hierarchy checker, that either returns *True* or *False*
+A user-role hierarchy checker for discord.py, that either returns *True* or *False*
